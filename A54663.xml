@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation of his Majesty the King of Spaine For the Conservation of the contrabando. Revocation of the permissions. Prohibition of the use of the merchandises, and fruits of the realms of France, England, and Portugal; and reformation of vestures, and apparel, and other things. Published in Madrid, the 11th. of September, anno 1657. Translated out of Spanish.</title>
+            <title>Proclamations. 1657-09-11. English.</title>
+            <author>Spain. Sovereign (1621-1665 : Philip IV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54663</idno>
+            <idno type="STC">Wing P1986A</idno>
+            <idno type="STC">ESTC R214121</idno>
+            <idno type="EEBO-CITATION">99826335</idno>
+            <idno type="PROQUEST">99826335</idno>
+            <idno type="VID">30736</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30736)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1996:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation of his Majesty the King of Spaine For the Conservation of the contrabando. Revocation of the permissions. Prohibition of the use of the merchandises, and fruits of the realms of France, England, and Portugal; and reformation of vestures, and apparel, and other things. Published in Madrid, the 11th. of September, anno 1657. Translated out of Spanish.</title>
+                  <title>Proclamations. 1657-09-11. English.</title>
+                  <author>Spain. Sovereign (1621-1665 : Philip IV)</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by G. Dawson, for Iohn Sweeting at the Angel in Popes-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>anno 1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Conservation .. things." are bracketed together on title page.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Spain --  History --  Philip IV, 1621-1655 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:30736:1"/>
+            <pb facs="tcp:30736:1"/>
+            <p>A PROCLAMATION Of his Majeſty The King of Spaine.</p>
+            <p>For the
+<list>
+                  <item>Conſervation of the Contrabando.</item>
+                  <item>Revocation of the Permiſsions.</item>
+                  <item>Prohibition of the uſe of the Mer<g ref="char:EOLhyphen"/>chandiſes, and Fruits of the Realms of <hi>France, England,</hi> and <hi>Portugal;</hi> and Reformation of Veſtures, and Ap<g ref="char:EOLhyphen"/>parel, and other things.</item>
+               </list>
+            </p>
+            <p>Publiſhed in <hi>Madrid,</hi> the 11<hi rend="sup">th.</hi> of <hi>September, Anno</hi> 1657.</p>
+            <p>Tranſlated out of Spaniſh.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Dawſon,</hi> for <hi>Iohn Sweeting</hi> at the Angel in Popeſ-head Alley, <hi>anno</hi> 1657.</p>
+         </div>
+         <div type="license">
+            <pb facs="tcp:30736:2"/>
+            <head>Licenſe, and Tax.</head>
+            <p>I <hi>Lewis Vazquez de Vargas,</hi> Notary of the Cham<g ref="char:EOLhyphen"/>ber of the King our Lord, and of thoſe of his Councel, do certifie, That by the Lords thereof, each of the Proclamations which his Majeſty commanded to be publiſhed for the conſervati<g ref="char:EOLhyphen"/>on of the Contrabando, Revocation of the Permiſsions, prohibition of the uſe of the Mer<g ref="char:EOLhyphen"/>chandiſes, and Fruits of the Realms of <hi>France, England,</hi> and <hi>Portugal,</hi> and Reformation of Ve<g ref="char:EOLhyphen"/>ſtures and Apparel, and other things, was tax<g ref="char:EOLhyphen"/>ed at Twelve Quarts, and at this (and no higher price,) it maybe ſold. And they alſo Com<g ref="char:EOLhyphen"/>mand, that no Printer of theſe Realms ſhall print the ſaid Proclamation, but he that ſhall have Li<g ref="char:EOLhyphen"/>cenſe of <hi>Don Iames de Canizares y Arteaga</hi> Secretary to the King our Lord? and Notary of his Cham<g ref="char:EOLhyphen"/>ber, the ancienteſt of thoſe of his Council. And to the end it may appear by command of the ſaid Lords, and at the requeſt of the ſaid <hi>Don Iames,</hi>
+            </p>
+            <closer>
+               <dateline>I do give theſe preſents in <hi>Madrid</hi> 
+                  <date>the 11. of <hi>Septemb.</hi> 1657.</date>
+               </dateline>
+               <signed>LEWIS VAZQUEZ de VARGAS.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:30736:2"/>
+            <p>
+               <hi>
+                  <seg rend="decorInit">D</seg>On Philip</hi> by the grace of God King of <hi>Castil, Leon, Aragon,</hi> the two <hi>Sci<g ref="char:EOLhyphen"/>cilia's, Ieruſalem, Portugal, Navarra, Granada, Toledo, Valencia, Galicia, Mal<g ref="char:EOLhyphen"/>lorca, Sevill, Cerdenna, Cordova, Corcega, Murcia-Iaen,</hi> the <hi>Algarves, Algezira, Gibraltar,</hi> the <hi>Ca<g ref="char:EOLhyphen"/>nary Iſlands,</hi> the <hi>Eaſt and Weſt Indies,</hi> and <hi>Iſlands,</hi> and firm land of the <hi>Ocean Seas,</hi> Arch-Duke of <hi>Auſtria,</hi> Duke of <hi>Burgandy, Brabant,</hi> and <hi>Milan,</hi> Earl of <hi>Aſ<g ref="char:EOLhyphen"/>purgh, Flanders, Tirol,</hi> and <hi>Barcelona,</hi> and Lord of <hi>Biſcay,</hi> and <hi>Molina, &amp;c.</hi> To the <hi>Infantes, Prelates, Dukes, Marqueſſes, Earls, Rich-men; Priors of Orders, Commanders, Sub-Commanders, Captains</hi> of <hi>Caſtles, ſtrong houſes,</hi> and <hi>others;</hi> and to thoſe of our <hi>Coun<g ref="char:EOLhyphen"/>ſel, Preſident,</hi> and <hi>Iudges</hi> of our <hi>Audiences, Alchaldes,</hi> and <hi>Alguaziles</hi> of our <hi>Houſe</hi> and <hi>Court,</hi> and <hi>Chance<g ref="char:EOLhyphen"/>ries,</hi> and to all the <hi>Corregidors, Aſsiſtants, Governors, Alcaldees,</hi> chief and ordinary <hi>Alguaziles, Iudges, Pre<g ref="char:EOLhyphen"/>voſts, Counſels Vniverſities, Aldermen, Regidors, Knights, Magiſtrates, Eſquires, Officers,</hi> and <hi>good-men,</hi> and to all and every of our <hi>Subjects,</hi> and <hi>Nations,</hi> of what <hi>E<g ref="char:EOLhyphen"/>ſtate, Dignity,</hi> or <hi>Preheminence</hi> ſoever they ſhall or may be, of all the <hi>Provinces, Cities, Towns,</hi> and pla<g ref="char:EOLhyphen"/>ces of theſe our <hi>Realms,</hi> and <hi>Lordſhips,</hi> as well to thoſe that preſent are, as to ſuch as hereafter ſhall be.</p>
+            <p n="1">
+               <pb n="2" facs="tcp:30736:3"/>
+1. Know that by our Laws, Proclamations, and Mandats publiſhed in theſe Realms, the commerce with the Realms of Portugal, France, and England is prohibited, upon ſeverall penalties, even to the death of the Tranſgreſſors, and loſs of their Eſtates; And becauſe ſo weighty a buſi<g ref="char:EOLhyphen"/>neſs hath not had the execution it requireth, theſe Realms have ſuſtained, and do ſuſtain very great damages, the ſilver and gold being carried out of them, and our Subjects and vaſſals eſtates, vainly ſpent in uſeleſs and unneceſſary things, our enemies enjoying as much convenience and pro<g ref="char:EOLhyphen"/>fit as they could have done in time of peace, by the introdu<g ref="char:EOLhyphen"/>ction of their Merchandizes, as well by venue of certain permiſſions that have been granted, and by the toleration and diſimulation of ſome, who by their own obligation, and by their places, and offices, ought to have prevented the ſame, Deſiring to put a ſtop to ſuch great inconveniences and diſorders, and provide a remedy for them, and abſolutely to ſhut the door againſt the introduction of all ſorts of Goods and Fruits of the ſaid Realms, which being ſeen by our Councils, and that which concerning the premiſes, the whole Realm united in Parliament hath petitioned us for, (which at preſent is ſitting,) and having conſulted with us, it was agreed, that we ought to command theſe our Let<g ref="char:EOLhyphen"/>ters to be given, which we will, ſhall have the force of a Law, and a Proclamation ſet forth by Royal Authority, as if they were made and promulgated in Parliament, where<g ref="char:EOLhyphen"/>by we do command the Laws, Proclamations, and Mandats prohibiting Commerce with the ſaid Three Realms to be indiſpencably kept and accompliſhed, and the penalties put in execution which thereby are impoſed on, and eſtabliſh<g ref="char:EOLhyphen"/>ed againſt the Tranſgreſſors of the ſame, which the amplifi<g ref="char:EOLhyphen"/>cations, and Declarations contained in this our Law and Proclamation.</p>
+            <p n="2">2. And whereas the years paſt we granted ſeveral Per<g ref="char:EOLhyphen"/>misſions for the importing of the Merchandizes and Fruits
+<pb n="3" facs="tcp:30736:3"/>of the ſaid Realms, and the time limited for the uſe of them, or the greateſt part thereof is now expired, and we are in<g ref="char:EOLhyphen"/>formed, that what they have imported without entry made in the Cuſtome-houſes, will ſatisfie for what time or quan<g ref="char:EOLhyphen"/>tity ſoever they may want, and that already they have got greater profits by the frauds they have committed. We do ſuſpend and determine all and every the ſaid Licenſes, and permiſsions which have been given, notwithſtanding it may be alleaged and proved, that the terme, or the quan<g ref="char:EOLhyphen"/>tity thereof is not accompliſhed. And we do will, and it it is our pleaſure (for the motives aforeſaid) that no uſe be made of the ſame for any cauſe or pretence, after the day of the publication of this Proclamation, for that from hence<g ref="char:EOLhyphen"/>forth it ſhall be put in execution. And we do command that they remain void and cancelled, as if they had never bee granted.</p>
+            <p n="3">3. And for as much as ſome perſons through their great covetouſneſs and malice have made it their imployment and practice to receive and diſpatch, and introduce unwarranta<g ref="char:EOLhyphen"/>ble and prohibited Goods, notwithſtanding the penalties commanded to be impoſed upon them by the Laws, Pro<g ref="char:EOLhyphen"/>clamations, and Mandats, touching the prohibition, and importation of theſe Merchandiſes from the ſaid three Realms, and thereby have made, and do make it facile to find Merchants, and other particular perſons that buy them to reſell, or otherwiſe diſpoſe of them. We do will, and it is our pleaſure that ſuch diſpatchers, and introducers, Mer<g ref="char:EOLhyphen"/>chants, Shop keepers, Factors, Commiſſioners, Brokers, and particular perſons as ſhall buy, or have theſe, ſhall incur the penalties expreſſed in one of our Mandats of the one and thirtieth of <hi>January, Anno</hi> 1650. and in the laſt, which was publiſhed in theſe Realms, touching the prohi<g ref="char:EOLhyphen"/>bition of Trade with the Realm of <hi>England.</hi>
+            </p>
+            <p>
+               <pb n="4" facs="tcp:30736:4"/>
+And for that we deſire this prohibition may be eſtabli<g ref="char:EOLhyphen"/>ſhed ſo abſolutely, that no doubt may be made of our royal pleaſure. We do command, that by no Council, Tribu<g ref="char:EOLhyphen"/>nal, nor Committee, it ſhall, or may be conſulted with, nor propounded unto us to grant Licenſe, or permiſsion againſt that ordained in this our Proclamation.</p>
+            <p n="5">5 And the execution and accompliſhment of all the pre<g ref="char:EOLhyphen"/>miſes is: (for the better prevention) to belong unto the or<g ref="char:EOLhyphen"/>dinary Juſtice of our Realms, and to the Surveyors, and Judges of the Contrabando, nominated by our Counſel of War, in the form, and as is ordained in the Proclama<g ref="char:EOLhyphen"/>tion of the one and thirtieth of <hi>Ianuary</hi> of the ſaid year 1650.</p>
+            <p n="6">6 And that a remedy may be provided for the evils a<g ref="char:EOLhyphen"/>foreſaid, and the door ſhut againſt the introducing of the Fruits and Merchandizes of the ſaid Relms, (holding the prohibition of the uſe of theſe Merchandizes, the moſt effi<g ref="char:EOLhyphen"/>catious remedy) for their being not any that may ſpend them, the occaſion and intereſt to bring them will ceaſe; We do Command, that no perſon of what eſtate or prehe<g ref="char:EOLhyphen"/>minence ſoever he maybe, neither Man, nor Woman, ſhall cloath him, or her ſelf, nor for no cauſe make uſe of any Merchandiſe of Enemies Realms, of what quality ſoever it may be, under the penalties impoſed on the ſaid Receivers and Introducers thereof, expreſſed in the ſaid Mandats and Proclamations. And the Tailors and Tradeſ-men that ſhall cut, ſow, or make apparel, or any other thing that ſhall reſpect, or tend to the uſe and conſumption of the ſaid Merchandiſe of the ſaid Enemies Realms, ſhall for the firſt time incur the penalty of twenty thouſand Maravedis, and two years baniſhments out of the Kingdom; and for the ſecond time forty thouſand Maravedis,<note n="*" place="margin">
+                  <hi>that is,</hi> whipt on an Aſſes back.</note> and publick ſham.</p>
+            <p n="7">
+               <pb n="5" facs="tcp:30736:4"/>
+7 And becauſe amongſt other things that have occaſio<g ref="char:EOLhyphen"/>ned the evils experimented in theſe Realms, by the non<g ref="char:EOLhyphen"/>obſervance of the ſaid prohibitions, hath been the exceſſive and unprofitable expences in our Subjects, and vaſſals ap<g ref="char:EOLhyphen"/>parel, ſpending and conſuming their eſtates in theſe ſuper<g ref="char:EOLhyphen"/>fluities, which is that we deſire, and will now to remedy, and that every one in his eſtate may confine himſelf to the moderation he ought to obſerve, according to his degree, from whence two things will reſult; Firſt, ſuch diſorders and profuce expences will ceaſe; and ſecondly, their eſtates will be increaſed by this moderation and due frugality, for ſo it is neceſſary for the maintenance of the State publick. We do ordain, and command, That no perſon, Man, nor Woman of what degree and quality ſoever, he, or ſhe may be, put on, nor wear in no kind of Apparel, Tiſſhew, Cloath of Gold, nor Silver, nor Silk that hath ground or mixture of Gold or Silver, nor embrodered, nor Lace, nor Edge<g ref="char:EOLhyphen"/>ing, nor Galoon, nor Twiſt, nor Stiching, nor Buttons, nor Ribbins of drawn Gold or Silver, nor any other thing wherein there is ſpun Gold or Silver, or true or falſe Plate, or Pendents of Gold or Silver, nor other kind of Trim<g ref="char:EOLhyphen"/>ming of the ſame, Steel, or Glaſs, Pearls, or ſeed of Pearl, nor other Stones true nor falce; But we only permit But<g ref="char:EOLhyphen"/>tons of maſſy Gold or Silver to be uſed; Which Prohibi<g ref="char:EOLhyphen"/>tion, nor any other, contained in this Proclamation ſhall be underſtood of what ſhall be made for Divine Worſhip, for that for the ſame may be made whatſoever ſhall be need<g ref="char:EOLhyphen"/>full.</p>
+            <p n="8">8 And we do permit for the honour of the Cavalry, Garments to be worn by the Soldiers that ſhall be actually in Arms in the Wars, or in other acts concerning the ſame, notwithſtanding they be ſuch as by this Proclamation are prohibited, and the like at the publick Feaſts of the Gentry on Horſe-back.</p>
+            <p n="9">
+               <pb n="6" facs="tcp:30736:5"/>
+9 And we do alſo prohibit wearing of any kind of Bone, or Woven Lace of Silk of Thred, or putting it on Men and Womens Apparel, on Gloves, Hatbands, and Garters, or any other thing, Veſtures, and Apparel. And we do only permit plain in Men and Womens Bands, and black only in their Mantles, being made in theſe Realms of <hi>Spain,</hi> and in the other places permitted by this Proclama<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="10">10 For Men and Womens Apparel, they are to wear them of plain and wrought black, and coloured Velvet, Pluſh, Damask, Sattins, plain and ſtiched Taffaties, and all other ſorts of Silk, ſo as they be made in our Realms of <hi>Spain,</hi> and in thoſe of our Dominion, and in the other Pro<g ref="char:EOLhyphen"/>vinces in amity, with which Commerce is held; (provided all the Merchandiſes of this kind that ſhall be imported, be of the weight, meaſure, mark, and lay that thoſe wrought and made in theſe Realms ought to hold, in conformity to that ordained by the 21, 22, and 23. Laws of the Twelfth Title of the Fifth Book of the <hi>Recollection,</hi> which we com<g ref="char:EOLhyphen"/>mand ſhall be kept. And they may be trimmed with Welts, Lace, or Embrodery of Silk, ſo as none of theſe Trimmings exceeds the bredth of ſix fingers: and no o<g ref="char:EOLhyphen"/>therwiſe ſhall they be worn, nor made uſe of by any perſon of what eſtate or quality ſoever he or ſhe may be, under the penalties expreſſed in this Proclamation, which ſhall be ap<g ref="char:EOLhyphen"/>plyed in the form therein contained.</p>
+            <p n="11">11 And we do permit with black or coloured Apparel embrodered, and emboſſed Sleeves, and Belts to be worn, ſo as they have not in the ground, nor in the ſaid Embrode<g ref="char:EOLhyphen"/>ries, and Emboſſements, any thing of Gold, nor of Silver, for both the one and the other is to be of ſilk.</p>
+            <p n="12">12 And that which is prohibited and commanded touch<g ref="char:EOLhyphen"/>ing Apparel, is alſo to be underſtood of Stage-players, Muſicioners of both Sexes, and other perſons that be in Commedies to ſing and play, unto whom there is onely
+<pb n="7" facs="tcp:30736:5"/>to be permitted plain Apparel of black and coloured Silk, provided it be made in theſe Realms, and in thoſe of our Dominions, or in the Provinces in Amity.</p>
+            <p n="13">13 We do permit the Liveries that ſhall be given to Pages, to be Caſſocks, Breeches, and ſleeves of plain ſilk, made in theſe Realms, and in thoſe of our Dominions; and there ſhall not be any Cloaks given nor worn of ſilk, but of Cloath, Raſh, Bayes, or ſome other thing, but not of ſilk, nor lined therewith, but ſilk ſtockings they may wear.</p>
+            <p n="14">14 In Liveries of Lackies, Coach men, and Sedan<g ref="char:EOLhyphen"/>men, We do Command that there ſhall not be any thing but Cloath worn, without any Trimming, Lace, Galoon, Welt, Stiching, but they ſhall be plaine, with Buttons be<g ref="char:EOLhyphen"/>fore their Caſſocks only. And we do permit the capes of their cloaks, breaſts, and ſleeves to be of plain or wrought coloured Velvet, provided they be made in <hi>Spain,</hi> and in the Realms of our Dominions, or other Provinces in friendſhip with us, and coloured worſted Stockings, but not ſilk.</p>
+            <p n="15">15 And all Liveries that ſhall be otherwiſe made, and worn are to be declared as we do declare them forfeited and loſt, and to be applied in manner aforeſaid; and the Tailors that ſhall make them, to incur the penalties impoſed; and the Servants and Lackies that ſhall wear them, ſix thouſand Maravedis, and two years baniſhment five Leagues from this Court. And the ſame is to be obſerved in all the other Cities, Towns, and places of our Realms, under the ſame penalty.</p>
+            <p n="16">16 And for the wearing of all the Apparel already made contrary to that ordained in this Proclamation, We doe grant two moneths which ſhall begin from the day of the publication hereof, (with denial of longer time) which being expired, although they be not worn out, there ſhall not be any uſe thereof made, and the day that any perſon ſhall be therewith apprehended, ſuch his apparel is to be loſt, and ap<g ref="char:EOLhyphen"/>plyed
+<pb n="8" facs="tcp:30736:6"/>by three parts, <hi>viz.</hi> to the Chamber, Judge, and In<g ref="char:EOLhyphen"/>former.</p>
+            <p n="17">17 And we do declare and command, That from the day of the publication of this Law and Proclamation, there ſhall not, nor may not and Apparel, nor Veſture be made, but in the manner, and with the ſtuffs and Trimmings therein de<g ref="char:EOLhyphen"/>clared; And thoſe that contrary hereunto ſhall be new made: and the Tailor that ſhall cut them, workmen that ſhall ſow them, and Embroderer that ſhall embroder them, ſhall in cut the penalties impoſed.</p>
+            <p n="18">18 And becauſe from henceforth the conſumption of the Goods and Merchandiſes of the ſaid Three Enemies Countries that ſhall be found in theſe Territories is prohibi<g ref="char:EOLhyphen"/>ted, We do permit them to be ſent to the <hi>Indies,</hi> ſo as they be Regiſtred in this Court within ſix dayes before one of our Council, that the Preſident thereof ſhall nominate; and in all the other Cities, Towns, and places of our Realms, before the ordinary Juſtices within other ſix dayes next af<g ref="char:EOLhyphen"/>ter the publication hereof, and all thoſe which ſhall not be Regiſtred, (are to be loſt;) And when they ſhall take and carry them From the places where the Regiſters ſhall be made, to ſend them to <hi>Cadiz,</hi> or to other Ports of <hi>Andalu-Zia,</hi> to be loaden in Fleets or Galleons, They are to take di<g ref="char:EOLhyphen"/>ſpatches, and guides of the Juſtices from whence they ſhall go, and remain bound to bring Teſtimonies that the ſaid Merchandiſes were laden in Fleets or Galleons, for that it ſhall not be lawful to ſell them for more or leſs, for that from henceforth the commerce, and ſale of the ſaid Merchandi<g ref="char:EOLhyphen"/>ſes that ſhall be found in being, is prohibited, and that which ſhall be otherwiſe carried away, are to incur the penalties eſtabliſhed againſt thoſe that make uſe of the Goods pro<g ref="char:EOLhyphen"/>hibited by this Proclamation. But it ſhall not be neceſſary to Regiſter the Merchandiſes which ſhall be of the Realms of our Dominions, and of the Provinces in Amity, with which commerce is held; for although many of them are
+<pb n="9" facs="tcp:30736:6"/>are prohibited for apparel, coaches, and ſedans, they may be permitted for other uſes, and deſigned for the <hi>Indies,</hi> paying the Duties, without need of a new authority for the ſame.</p>
+            <p n="19">19 And to prevent the moleſtation, vexation, and in<g ref="char:EOLhyphen"/>conveniences, that would happen by the Juſtices and Offi<g ref="char:EOLhyphen"/>cers frowardneſs, to enter into mens houſes to ſeek and en<g ref="char:EOLhyphen"/>quire, &amp; do other diligencies to diſcover whether prohibited apparel be worn: We do command that they ſhall not en<g ref="char:EOLhyphen"/>ter into any houſe to do theſe diligencies, for they ſhall onely make informations againſt the perſons that ſhould tranſ<g ref="char:EOLhyphen"/>greſs, and go with ſuch apparel in the ſtreets, and in other publick, places.</p>
+            <p n="20">20 And we do alſo command, that from henceforth in obedience to that which a Chapter of the Law 2 Title, 12 Book 7. of the <hi>New Recollection,</hi> doth ordain, There ſhall not be any Sedans made with hands of Tiſſhew, nor of cloath of Gold or Silver, nor of any Silk that hath any therein; nor ſhall their linings be imbrodered with any thing, for they ſhall not exeeed Velvet, Damask, or ſome o<g ref="char:EOLhyphen"/>ther ſilk, and they may have fringe and lace Buttons there<g ref="char:EOLhyphen"/>of, but not of Gold nor Silver; and the pillars of the ſaid Sedans may be trimmed with ſilk Lace, and little ſtuds or nails.</p>
+            <p n="21">21 And we do likewiſe command, according to another Chapter of the ſame Law 2. and the ſaid Title 12. Book 7. that no Coach, nor Litter ſhall be embrodered with Gold, Silver, or Silk, or lined with Thiſſhew, cloath of Gold, nor of Silver, nor with any ſilk that hath any therein, nor with fringe, nor tufts, nor any other trimming of gold or ſilver Lace; And that they ſhall be onely made of Velvet, or Damask, or of any other plain ſilks of thoſe made in our Realms, and other Dominions, and in the Provinces in a<g ref="char:EOLhyphen"/>mity with which commerce is held, with ſilk, fringe, and galoon; and they may have the nailing gilt: but the iron
+<pb n="10" facs="tcp:30736:7"/>work of the Coaches ſhall have no guilding.</p>
+            <p n="22">22 And we do alſo command, That the coverings of the ſaid Coaches, Sedans, and Litter ſhall not be of any ſilk, nor the Trimming of Horſes, Coach, Mules, and Litter<g ref="char:EOLhyphen"/>men; and that the ſaid coaches, and litters ſhall not be ſtitched, notwithſtanding they are of Leather or Cordovan, much leſs ſhall they have on them any Trimming of Em<g ref="char:EOLhyphen"/>brodered Leather.</p>
+            <p n="23">23 And for the uſe of thoſe already made, againſt that, ordained in this Proclamation, we do grant two years time, which being expired, the Owners are not to make uſe of them for any purpoſe. And to the end thoſe that are, may be known, they are to be Regiſtred in this Court, before one of our Council that the Preſident thereof ſhall nominate within three dayes; and in the other Cities, Towns, and places before the ordinary Juſtices thereof within the ſame time, which is to begin from the day of the publication in this Court, and in the Cities where it ſhall be made, and of thoſe that ſhall not be Regiſtred, there ſhall not be any uſe made, and the day that they ſhall be made uſe of without re<g ref="char:EOLhyphen"/>giſtring, they are to be loſt, and their value applyed by three parts, <hi>viz.</hi> to the Chamber, Judg, and Informer.</p>
+            <p n="24">24 And the Maſters that make new Coaches, Litters, and Sedans, and the Workmen that ſhall frame, embroder, or ſtitch them, contrary to that ordained in this Proclama<g ref="char:EOLhyphen"/>tion, ſhall incur for the firſt time loſs of the ſaid Coaches, Littars, and Sedans which they ſhall have ſo made, or ſhall make, and fifty thouſand Maravediz to be applyed in the ſame manner; and for the ſecond time the pecuniary penal<g ref="char:EOLhyphen"/>ty ſhall be doubled, and four years baniſhment five leagues from this Court, and from the Cities, Towns, and places where they ſhall tranſgreſs.</p>
+            <p n="25">25 And we do command all Juſtices of our Realms ſo to keep, accompliſh, and execute it under penalty of depri<g ref="char:EOLhyphen"/>vation of their Offices, which he ſhall incur, that ſhall be
+<pb n="11" facs="tcp:30736:7"/>therein remiſs or negligent, or ſhall in any manner diſſem<g ref="char:EOLhyphen"/>ble; and thoſe of our Council and Chanceries, to take particular care to puniſh the ſaid Judges in their Reſiden<g ref="char:EOLhyphen"/>ces as they ſhall ſee cauſe, and determine, having been remiſs in the execution of this our Law, and impoſing upon them ſuch other penalties, which (according to the quality of the fault, they ſhall ſee convenient.</p>
+            <p n="26">26 And whereas the obſervance of this Proclamation touching Veſtures and Apparel will reſpect the good and publick Government of theſe our Realms, which would be troubled with multiplicity of Juriſdictions, and ſo the pu<g ref="char:EOLhyphen"/>niſhments and execution of the penalties, not paſſing ſoly through the hands of our ordinary Juſtices. We do here<g ref="char:EOLhyphen"/>by give them privative Juriſdiction to take cognizance of the caſes that ſhall reſpect the puniſhment and execution of the penalties of the Tranſgreſſion, the uſe of the Veſtures and Apparel, Silks, and Goods which are to be made, and other things contained in this Reformation; and we do command them inviolably to execute them againſt the Tranſgreſſors, and the ſame to be done in the ordinary viſi<g ref="char:EOLhyphen"/>ting of the Priſons, without power to moderate the ſame.</p>
+            <p n="27">27 And no Gentleman of Military Orders, Captains, or actual Soldiers, or priviledged perſons of any Militia's, notwithſtanding they are of our Guards, Titular Officers, or Familiars of the Inquiſition, nor any other priviledged by Law or cuſtome, although they are not here expreſſed, and may be of equator greater exemption, ſhall enjoy any benefit by the priviledges or exemptions they ſhall have by Law, or Cuſtome, for that it hath never been our pleaſure to grant them for theſe caſes, nor that they ſhall be extended to theſe matters of Government; And we do inhibit all Counſels, Tribunals, and Judges, that may take cognizance of their cruſes, by reaſon of their priviledges, or places; And we declare them incompetent, and do command it
+<pb n="12" facs="tcp:30736:8"/>ſhall not be admitted any to benefit himſelf by this recourſe to hinder the progreſs of taking cognizance of like informa<g ref="char:EOLhyphen"/>tions, and the puniſhment of his tranſgreſſions, and exclude him from the ſame.</p>
+            <p n="28">28 All which our pleaſure is, ſhall be inviolably kept, accompliſhed, and executed; and we do command you to cauſe it to be kept, accompliſhed, and executed, according, and as in theſe our Letters is contained, and declared; and againſt the form and tenour thereof, and that which therein is contained not to go, nor paſs, nor conſent to be gone, nor paſſed in any manner; And all Juſtices of theſe our Realms, each in his juriſdiction ſhall cauſe it to be kept as a Law, and Proclamation eſtabliſhed by Royal Authority, which from henceforth is to be binding from the Publication in this Court, and in all other Cities, Towns, and places, from the time that it ſhall be publiſhed in the heads of their Juriſdi<g ref="char:EOLhyphen"/>ctions.</p>
+            <closer>
+               <dateline>Given in <hi>Madrid</hi> 
+                  <date>the 11<hi rend="sup">th.</hi> of <hi>September, Anno</hi> 1657.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>I the King.</hi>
+                     </item>
+                     <item>
+                        <hi>I Martin de Villela, Secretary to the King our Lord, did draw it by his command.</hi>
+                     </item>
+                     <item>
+                        <hi>The Licentiate D. Anthony de Contreras</hi>
+                     </item>
+                     <item>
+                        <hi>The Licentiate D. Chriſto<g ref="char:EOLhyphen"/>per de Moſcoſo, y Cordova.</hi>
+                     </item>
+                     <item>
+                        <hi>The Licentiate D. Martin Iniguez de Arnedo.</hi>
+                     </item>
+                     <item>
+                        <hi>The Licentiate D. Anthony de Valdes.</hi>
+                     </item>
+                     <item>
+                        <hi>The Licentiate D. Laurence Ramirez de Prado.</hi>
+                     </item>
+                     <item>Regiſtred. <hi>D: Peter de Caſtaneda.</hi>
+                     </item>
+                     <item>
+                        <hi>Peter de Caſtaneda,</hi> High Chancellor.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="notice">
+            <pb n="13" facs="tcp:30736:8"/>
+            <head>Publication.</head>
+            <p>IN the Town of <hi>Madrid</hi> the 11<hi rend="sup">th.</hi> of the month of <hi>September, anno</hi> 1657. before the Gates of the Royal Palace, and Gate of <hi>Guadalaxara,</hi> where is the Trade and Commerce of the Mer<g ref="char:EOLhyphen"/>chants and others, is the Licentiates <hi>Don Francis de Quinones, Don Vincent, Banuelos, Don Francis Medrano, Don Iohn Ramires de Arellano, Don Iohn Buens de Rox<g ref="char:EOLhyphen"/>as,</hi> Alcaldes of his Majeſties Houſe and Court being preſent, this Law and Proclamation was publiſhed with Trumpets and Drums by pub<g ref="char:EOLhyphen"/>lick Cryers, in lowd and intelligible voices, at which were preſent <hi>Bartholomew Bracco, Francio de Moſcoſo, Iohn Baptiſt Belarde,</hi> Alguaziles of the Houſe and Court of the King our Lord, and many other perſons; And to the end it may ap<g ref="char:EOLhyphen"/>pear, I do give theſe preſents the ſaid day, moneth, and year.</p>
+            <closer>
+               <signed>D. JAMES de CANIZARES y ARTEAGA.</signed>
+            </closer>
+         </div>
+         <div type="instructions">
+            <p>THe Regiſter of the Coaches, and other things, is to be made before <hi>Don Ieronimo de Camargo</hi> one of his Majeſties Council.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
